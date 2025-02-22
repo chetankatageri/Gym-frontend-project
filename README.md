@@ -113,7 +113,7 @@ Key color variables in use:
 }
 ```
 
-## Future Enhancements
+ Future Enhancements
 
 Potential features to add:
 1. Interactive fitness calculator
@@ -125,14 +125,3 @@ Potential features to add:
 7. Testimonials section
 8. Blog section for fitness tips
 
-## Contact
-
-For any queries regarding the website, contact Naveen Fitness:
-- Via the "Call Us Now" button
-- Via the "Email Us" button
-- Through the registration form
-
-
----
-
-Remember to replace placeholders and add specific details about licensing, credits, and contact information as needed.# Gym-frontend-project
