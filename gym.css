@@ -1,0 +1,112 @@
+body{
+    color:white;
+    margin:0px;
+    padding:0px;
+    background-image:url(./img/man-7847247_1920.jpg) ;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    min-height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.left{
+
+display: inline-block;
+position: absolute;
+left: 44px;
+top: 10px ;
+
+}
+
+.mid{display: block;
+    width: 33%;
+    margin: 12px auto;
+    top: 25px; 
+    width: 600px;
+    position: relative;
+    
+}
+    
+.right{
+    
+display: inline-block;
+position: absolute;
+top: 30px;
+right: 34px;
+}
+.navbar{
+    display: inline;
+}
+.navbar li{
+    display: inline;
+}
+
+.navbar li a:hover,.navbar li a:active{
+
+   text-decoration: underline;
+   color: grey;
+}
+
+.navbar li a{
+    color:white ;
+    text-decoration:none ;
+    padding: 34px 23px ;
+}
+
+.left img{
+    width: 100px; 
+    height: 70px ;
+    align-items: center;
+    filter:invert(100%);
+}
+
+.left div{
+
+    text-align: center ;
+    font-size: small;
+}
+.btn{
+
+    margin: 0px 9px;
+    background-color: black;
+    color: azure;
+    padding:4px 14px ;
+    border: 2px gray;
+    border-radius:10px ;
+    
+    cursor: pointer;
+}
+
+
+.container{
+    border:2px solid white;
+    margin: 106px 80px;
+    padding: 75px;
+    width:43%;
+    border-radius:28px ;
+}
+
+.form-group input{
+text-align: center;
+display: block;
+width: 508px;
+padding: 1px ;
+border:2px solid black ;
+margin:11px auto;
+font-size: 25px;
+border-radius: 8px;
+}
+.container h1{
+    text-align: center;
+    color: white;
+}
+.container button{
+    border:1px solid white ;
+    display: block;
+    width: 94%;
+    margin:18px auto;
+    height: 25px; ;
+    font-size: medium;
+}
